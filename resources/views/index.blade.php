@@ -7,5 +7,8 @@
 </head>
 <body>
     <h1>trains</h1>
+    @php
+    dd($trains)
+    @endphp
 </body>
 </html>
